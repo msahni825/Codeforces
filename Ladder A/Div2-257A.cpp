@@ -1,4 +1,4 @@
-/*A. Jzzhu and Children*/
+/*A. Jzhu and Children*/
 #include<bits/stdc++.h>
 using namespace std;
 
